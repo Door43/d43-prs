@@ -1,11 +1,33 @@
 
 ----
 ~~NOCACHE~~
-**[[prs:obs|Open Bible Stories]]**
+**Door43**
 
-{{page>prs:obs:stories}}
+  * [[prs:home|Door43 (prs)]]
 
+**Resources**
+
+  * [[prs:obs|Open Bible Stories (prs)]]
+
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-prs|d43-prs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-prs/archive/master.zip|d43-prs.zip]]
+
+**Recent Changes**
+{{changes>ns = prs}}
 
 **Latest Status**
 {{page>en:uwadmin:prs:obs:status}}
 
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/prs|Ethnologue data]]
+
+**Resources**
+
+  * [[prs:obs|Open Bible Stories (prs)]]
+
+**Latest OBS Status**
+{{page>en:uwadmin:prs:obs:status}}
